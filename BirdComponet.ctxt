@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BirdComponet
+comment0.text=\r\n\ This\ Class\ helps\ keep\ track\ of\ our\ Bird.\r\n\ Determines\ how\ high\ it\ jumps\ and\ \r\n\ how\ fast\ it\ falls\r\n\r\n\ @author\ Essayas\ Kassa\r\n\ @author\ Oluwademilade\ Dammy\ Adisa\r\n\ \r\n
+comment1.params=startx\ starty
+comment1.target=BirdComponet(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BirdComponet\r\n
+comment2.params=g\ comp
+comment2.target=void\ draw(java.awt.Graphics,\ javax.swing.JComponent)
+comment3.params=
+comment3.target=void\ jump()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getHeight()
+comment8.params=
+comment8.target=int\ getWidth()
+comment9.params=
+comment9.target=java.awt.Rectangle\ getBoundingBox()
+numComments=10

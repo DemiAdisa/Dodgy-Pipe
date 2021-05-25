@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Frame2
+comment0.text=\r\n\ This\ Class\ serves\ as\ the\ driver\ and\ window/frame\ creator\ \r\n\ for\ our\ Dodgy\ Bird\ Game\r\n\r\n\ @author\ Essayas\ Kassa\r\n\ @author\ Oluwademilade\ Dammy\ Adisa\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

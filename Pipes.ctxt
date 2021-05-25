@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pipes
+comment0.text=\r\n\ This\ Class\ Helps\ create\ pipes\ to\ serve\ as\ the\ Obstacles\ \r\n\ for\ our\ Bird\r\n\r\n\ @author\ Essayas\ Kassa\r\n\ @author\ Oluwademilade\ Dammy\ Adisa\r\n\ \r\n
+comment1.params=xPostition
+comment1.target=Pipes(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pipes\r\n
+comment2.params=
+comment2.target=void\ moveLeft()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=r
+comment4.target=boolean\ collidesWith(java.awt.Rectangle)
+comment4.text=\r\n\ return\ true\ if\ either\ upper\ or\ lower\ pipes\ intersects\ with\ the\ rectangle\ r\r\n
+comment5.params=r
+comment5.target=boolean\ checkScore(java.awt.Rectangle)
+numComments=6

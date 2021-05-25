@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LandScape2
+comment0.text=\r\n\ This\ Class\ helps\ put\ everything\ in\ place\ to\ create\r\n\ or\ simulate\ the\ Dodgy\ Bird\ Game\ Environment\r\n\r\n\ @author\ Essayas\ Kassa\r\n\ @author\ Oluwademilade\ Dammy\ Adisa\r\n
+comment1.params=
+comment1.target=LandScape2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LandScape2\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ loadHighScore()
+comment4.params=highscore
+comment4.target=void\ saveHighScore(int)
+numComments=5
